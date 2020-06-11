@@ -1,0 +1,15 @@
+#myForm {
+    background-color: aqua;
+    width: 40%;
+    margin-left: 30%;
+    text-align: center;
+}
+#myForm ul {
+    list-style-type: none;
+}
+#myForm li {
+    padding-top: 20px;
+}
+.error {
+    color: red;
+}
